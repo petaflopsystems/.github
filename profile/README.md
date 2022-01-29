@@ -1,1 +1,1 @@
-<a href="https://petaflop.net/images/logo2.png"></a>
+![Open Source at Petaflop Systems](https://github.com/petaflopsystems/.github/blob/main/images/logo2.png) 
